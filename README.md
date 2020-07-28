@@ -1,4 +1,5 @@
-### Hi there 👋
+![Hellou !](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 
 <!--
 **geniodellavittoria/geniodellavittoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
